@@ -1,0 +1,26 @@
+.app-container {
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  select, input {
+    margin: 10px 0;
+  }
+  
+  .statistics, .chart-container {
+    margin-top: 20px;
+  }
+  
